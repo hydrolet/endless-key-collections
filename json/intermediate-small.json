@@ -201,5 +201,12 @@
       ],
       "exclude_node_ids": []
     }
-  ]
+  ],
+  "metadata": {
+    "title": "3 GB",
+    "subtitle": "Small",
+    "size": 3,
+    "text": "Intermediate",
+    "channels": 22
+  }
 }

@@ -226,5 +226,12 @@
       ],
       "exclude_node_ids": []
     }
-  ]
+  ],
+  "metadata": {
+    "title": "6 GB",
+    "subtitle": "Large",
+    "size": 6,
+    "text": "Secondary",
+    "channels": 24
+  }
 }
