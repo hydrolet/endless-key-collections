@@ -27,19 +27,26 @@ def parse_channel_from_config(config, id):
     return channel
 
 
-def ini2json(f, output='collections'):
+def ini2json(f, output='collections', metadata='metadata'):
+    filename, _ext = os.path.splitext(os.path.basename(f))
+    metadata_file = os.path.join(metadata, f'{filename}.json')
+    output_path = os.path.join(output, f'{filename}.json')
+
     config = configparser.ConfigParser()
     config.read(f)
 
-    out = {'channels': []}
+    out = {'channels': [], 'metadata': {}}
 
     channel_ids = config['kolibri']['install_channels']
-    for id in channel_ids.split():
+    channels = channel_ids.split()
+    for id in channels:
         channel = parse_channel_from_config(config, id)
         out['channels'].append(channel)
 
-    filename, _ext = os.path.splitext(os.path.basename(f))
-    output_path = os.path.join(output, f'{filename}.json')
+    with open(metadata_file) as f:
+        out['metadata'] = json.load(f)
+        out['metadata']['channels'] = len(channels)
+
     with open(output_path, 'w') as output_file:
         json.dump(out, output_file, indent=2)
 
@@ -51,7 +58,9 @@ if __name__ == '__main__':
                         help='A .ini file to convert to manifest.json')
     parser.add_argument('-o', '--output', type=str, default='collections',
                         help='The output directory, collections by default')
+    parser.add_argument('-m', '--metadata', type=str, default='metadata',
+                        help='The metadata directory, metadata by default')
 
     args = parser.parse_args()
     for f in args.files:
-        ini2json(f, args.output)
+        ini2json(f, args.output, args.metadata)
