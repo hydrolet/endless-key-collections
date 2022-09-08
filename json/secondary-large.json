@@ -230,8 +230,7 @@
   "metadata": {
     "title": "6 GB",
     "subtitle": "Large",
-    "size": 6,
-    "text": "Secondary",
-    "channels": 24
+    "description": "Secondary",
+    "required_gigabytes": 6
   }
 }

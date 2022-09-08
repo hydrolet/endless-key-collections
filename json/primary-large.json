@@ -175,8 +175,7 @@
   "metadata": {
     "title": "5 GB",
     "subtitle": "Large",
-    "size": 5,
-    "text": "Primary",
-    "channels": 14
+    "description": "Primary",
+    "required_gigabytes": 5
   }
 }

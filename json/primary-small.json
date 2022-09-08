@@ -140,8 +140,7 @@
   "metadata": {
     "title": "2 GB",
     "subtitle": "Small",
-    "size": 2,
-    "text": "Primary",
-    "channels": 13
+    "description": "Primary",
+    "required_gigabytes": 2
   }
 }
