@@ -4,6 +4,7 @@ import argparse
 import configparser
 import json
 import os
+from collections import OrderedDict
 
 
 def parse_channel_from_config(config, id):
@@ -27,26 +28,31 @@ def parse_channel_from_config(config, id):
     return channel
 
 
-def ini2json(f, output='collections', metadata='metadata'):
-    filename, _ext = os.path.splitext(os.path.basename(f))
-    metadata_file = os.path.join(metadata, f'{filename}.json')
-    output_path = os.path.join(output, f'{filename}.json')
+def parse_metadata_from_section(metadata_section):
+    return OrderedDict(
+        title = metadata_section.get('title'),
+        subtitle = metadata_section.get('subtitle'),
+        description = metadata_section.get('description'),
+        required_gigabytes = int(metadata_section.get('required_gigabytes'))
+    )
 
+
+def ini2json(f, output='collections'):
     config = configparser.ConfigParser()
     config.read(f)
 
-    out = {'channels': [], 'metadata': {}}
+    out = {'channels': []}
 
     channel_ids = config['kolibri']['install_channels']
-    channels = channel_ids.split()
-    for id in channels:
+    for id in channel_ids.split():
         channel = parse_channel_from_config(config, id)
         out['channels'].append(channel)
 
-    with open(metadata_file) as f:
-        out['metadata'] = json.load(f)
-        out['metadata']['channels'] = len(channels)
+    if 'metadata' in config:
+        out['metadata'] = parse_metadata_from_section(config['metadata'])
 
+    filename, _ext = os.path.splitext(os.path.basename(f))
+    output_path = os.path.join(output, f'{filename}.json')
     with open(output_path, 'w') as output_file:
         json.dump(out, output_file, indent=2)
 
@@ -58,9 +64,7 @@ if __name__ == '__main__':
                         help='A .ini file to convert to manifest.json')
     parser.add_argument('-o', '--output', type=str, default='collections',
                         help='The output directory, collections by default')
-    parser.add_argument('-m', '--metadata', type=str, default='metadata',
-                        help='The metadata directory, metadata by default')
 
     args = parser.parse_args()
     for f in args.files:
-        ini2json(f, args.output, args.metadata)
+        ini2json(f, args.output)
