@@ -226,5 +226,11 @@
       ],
       "exclude_node_ids": []
     }
-  ]
+  ],
+  "metadata": {
+    "title": "6 GB",
+    "subtitle": "Large",
+    "description": "Secondary",
+    "required_gigabytes": 6
+  }
 }

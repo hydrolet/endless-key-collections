@@ -136,5 +136,11 @@
       ],
       "exclude_node_ids": []
     }
-  ]
+  ],
+  "metadata": {
+    "title": "2 GB",
+    "subtitle": "Small",
+    "description": "Primary",
+    "required_gigabytes": 2
+  }
 }

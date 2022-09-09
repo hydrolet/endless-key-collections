@@ -207,5 +207,11 @@
       ],
       "exclude_node_ids": []
     }
-  ]
+  ],
+  "metadata": {
+    "title": "6 GB",
+    "subtitle": "Large",
+    "description": "Intermediate",
+    "required_gigabytes": 6
+  }
 }

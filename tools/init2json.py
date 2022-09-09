@@ -4,6 +4,7 @@ import argparse
 import configparser
 import json
 import os
+from collections import OrderedDict
 
 
 def parse_channel_from_config(config, id):
@@ -27,6 +28,15 @@ def parse_channel_from_config(config, id):
     return channel
 
 
+def parse_metadata_from_section(metadata_section):
+    return OrderedDict(
+        title = metadata_section.get('title'),
+        subtitle = metadata_section.get('subtitle'),
+        description = metadata_section.get('description'),
+        required_gigabytes = int(metadata_section.get('required_gigabytes'))
+    )
+
+
 def ini2json(f, output='collections'):
     config = configparser.ConfigParser()
     config.read(f)
@@ -37,6 +47,9 @@ def ini2json(f, output='collections'):
     for id in channel_ids.split():
         channel = parse_channel_from_config(config, id)
         out['channels'].append(channel)
+
+    if 'metadata' in config:
+        out['metadata'] = parse_metadata_from_section(config['metadata'])
 
     filename, _ext = os.path.splitext(os.path.basename(f))
     output_path = os.path.join(output, f'{filename}.json')
