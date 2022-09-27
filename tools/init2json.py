@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import hashlib
 import argparse
 import configparser
 import json
@@ -40,6 +41,11 @@ def parse_metadata_from_section(metadata_section):
     )
 
 
+# Copied from kolibri/core/content/utils/content_manifest.py
+def _get_channels_list_hash(channels_list):
+    return hashlib.md5(json.dumps(channels_list, sort_keys=True).encode()).hexdigest()
+
+
 def ini2json(f, output='collections'):
     config = configparser.ConfigParser()
     config.read(f)
@@ -50,6 +56,8 @@ def ini2json(f, output='collections'):
     for id in channel_ids.split():
         channel = parse_channel_from_config(config, id)
         out['channels'].append(channel)
+
+    out['channel_list_hash'] = _get_channels_list_hash(out['channels'])
 
     if 'metadata' in config:
         out['metadata'] = parse_metadata_from_section(config['metadata'])
