@@ -25,6 +25,9 @@ def parse_channel_from_config(config, id):
     channel['include_node_ids'] = include_node_ids
     channel['exclude_node_ids'] = exclude_node_ids
 
+    # FIXME setting channel version to 0 for now, so Kolibri ContentManifest validates
+    channel['version'] = 0
+
     return channel
 
 
