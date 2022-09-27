@@ -10,7 +10,8 @@
         "a34c768ffb225521867e268d1418f955",
         "6ef561654e4b50aa9cb2b9c3bff97c78"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "1520f018610256549c98ca0140cceebe",
@@ -22,7 +23,8 @@
         "82cf14ed99915fc08efb523f03e71751",
         "ea6e501463f2573190377159c495af86"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "000409f81dbe5d1ba67101cb9fed4530",
@@ -37,7 +39,8 @@
         "58fcf30fc06b512b8c6a89868a0d5883",
         "fd70be3b008356078163c1aedd0744db"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "057f871caa405ec29d62ba0523c193d7",
@@ -45,7 +48,8 @@
         "6d5a97dd59c555c09d3aebfb54a5a256",
         "5aab597113c85314bec68eb42ecac908"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "f061fce103ff5d4e9b8433e67802e666",
@@ -53,7 +57,8 @@
         "07a183a31b705d6ba66b5e7eeeb29ef1",
         "782d0145c5df5f9692c0e71ca18df2ad"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "2f95235c3709511fa12d007f31ed6a7b",
@@ -64,7 +69,8 @@
         "253556596d7a5a88a41ac25da6247b5e",
         "b3ee2d0b8c9a5d508f6aea143df37479"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "9c33eb395508447d96c96682cb18c57a",
@@ -72,21 +78,24 @@
         "3217c74f84ae462d9039b5f0a01da4a9",
         "345f1ca1de3f4da48043abdbc987d332"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "f5f6729f95b55753badeaa066fa6e986",
       "include_node_ids": [
         "1c9bd649682e5452a3d1ae323bb48754"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "4e413158eac55422a5343af9fcfa8d59",
       "include_node_ids": [
         "a668618cda6651cd851c9555ff974d22"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "59bb2e5a3d2e5e3b85b87d9ab4daa2f3",
@@ -109,7 +118,8 @@
         "cd22c3b2f0985f17b81eb4067cd051a1",
         "a12ceb7329b05875b865139070c70ea2"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "c9d7f950ab6b5a1199e3d6c10d7f0103",
@@ -120,23 +130,27 @@
         "7af9c491fcc55f689e189724caf41589",
         "d2b6ce871df951c7b976e4a5b44e7d55"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "38eaaf9ec82a44f9ab6e7a44cb730f07",
       "include_node_ids": [
         "38eaaf9ec82a44f9ab6e7a44cb730f07"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     },
     {
       "id": "bcc6e12a0ddf4a17a8b600c6b880e3ed",
       "include_node_ids": [
         "9802044dbe084bf4b9d230182c012bde"
       ],
-      "exclude_node_ids": []
+      "exclude_node_ids": [],
+      "version": 0
     }
   ],
+  "channel_list_hash": "9a8b2377c3eaab733bd06513379e2805",
   "metadata": {
     "title": "2 GB",
     "subtitle": "Small",
