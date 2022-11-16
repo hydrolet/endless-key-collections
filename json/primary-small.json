@@ -122,18 +122,6 @@
       "version": 0
     },
     {
-      "id": "c9d7f950ab6b5a1199e3d6c10d7f0103",
-      "include_node_ids": [
-        "856e3307e37d5cad8b22018b7fdae510",
-        "4157b586938252eea3732a6c127458f7",
-        "fe0752c397c455e690a9739a898b134b",
-        "7af9c491fcc55f689e189724caf41589",
-        "d2b6ce871df951c7b976e4a5b44e7d55"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
-    },
-    {
       "id": "38eaaf9ec82a44f9ab6e7a44cb730f07",
       "include_node_ids": [
         "38eaaf9ec82a44f9ab6e7a44cb730f07"
@@ -150,7 +138,7 @@
       "version": 0
     }
   ],
-  "channel_list_hash": "9a8b2377c3eaab733bd06513379e2805",
+  "channel_list_hash": "8c07978a23f394a8e12f74845bbfee4f",
   "metadata": {
     "title": "2 GB",
     "subtitle": "Small",
