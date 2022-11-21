@@ -129,22 +129,6 @@
       "version": 0
     },
     {
-      "id": "c9d7f950ab6b5a1199e3d6c10d7f0103",
-      "include_node_ids": [
-        "48fde10013535ab8a4aba1f8a281f696",
-        "07dcfb4431715b03a17aa49816ffaa50",
-        "9924a5c5fda7591aa47b870715ae3ff2",
-        "09aba410a11d56109203ca6e8d5754eb",
-        "55aecedbadfa59478768d0e6833fb1ae",
-        "a77461cf51315f15bfda710b13ef26da",
-        "69dd2d592c475991bec69b9f60939667",
-        "d77d6d2c84e1571c8db186f0d7ca0610",
-        "0c0b88672ece5564b2c016b1d83c4b85"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
-    },
-    {
       "id": "bcc6e12a0ddf4a17a8b600c6b880e3ed",
       "include_node_ids": [
         "5363111c2fd04c2d83413bdfa6348e57"
@@ -224,7 +208,7 @@
       "version": 0
     }
   ],
-  "channel_list_hash": "a44fb076c0f9f9d1581c34c86e713336",
+  "channel_list_hash": "90aa7612583193d092c26849711c4b76",
   "metadata": {
     "title": "3 GB",
     "subtitle": "Small",
