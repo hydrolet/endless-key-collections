@@ -1,13 +1,13 @@
 {
   "channels": [
     {
-      "id": "1e378725d3924b47aa5e1260628820b5",
+      "id": "2091ca47ff544c96b4ae02b3a92346e1",
       "include_node_ids": [
-        "ba195f33c4e65057a324b223d6b35f97",
-        "ca7e30c1afb156cda357a37a03f05955",
-        "ac4d5acdd67c5dbd80ba7ffbf62ded83",
-        "18c0919a77d55cd3a646672c91efd9c3",
-        "a51ee49f80bd5b11839123cbcd14fc71"
+        "34eab624ddc84231a6ddae11532d84a8",
+        "1c0c8e4fa3bc446ca1f055c7b42aee5c",
+        "28d0ae6062a142dea3d0802cef480415",
+        "de3426a0f14f4a518cdc9ee8b84a02b4",
+        "0ea68e13402b43959b2e74339ef9c663"
       ],
       "exclude_node_ids": [],
       "version": 0
@@ -214,7 +214,7 @@
       "version": 0
     }
   ],
-  "channel_list_hash": "476290c60d1843c58f8201a2b9179bdc",
+  "channel_list_hash": "7ff129a64965df6c21213c30070308d4",
   "metadata": {
     "title": "6 GB",
     "subtitle": "Large",
