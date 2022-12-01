@@ -147,15 +147,15 @@
       "version": 0
     },
     {
-      "id": "1e378725d3924b47aa5e1260628820b5",
+      "id": "2091ca47ff544c96b4ae02b3a92346e1",
       "include_node_ids": [
-        "ba195f33c4e65057a324b223d6b35f97",
-        "94524ca88af95a85b6e1f1832644a883",
-        "03b99c5606aa52e39e58f7a86461789e",
-        "9dbb1f76193956cfa6852a960808867b",
-        "29c8120194d056b08c3226083bfffcc7",
-        "7a42287cc42b51d09a7c14dc6142a0c9",
-        "309c4c6c5a985066ae4c267a117c57e1"
+        "34eab624ddc84231a6ddae11532d84a8",
+        "6343a39a38b645c99a7642eae2b8001d",
+        "67cc850859c547d09738f83c4b3cd5dd",
+        "ecb8301f6e494cf088d7a5c5e12b72d7",
+        "1963df1fd8d8438f9e136b5dab158b39",
+        "af82b0db383a4522b6cb5420bc1b2e44",
+        "032e81b3627e4f4fb54ee9a7b45204d9"
       ],
       "exclude_node_ids": [],
       "version": 0
@@ -208,7 +208,7 @@
       "version": 0
     }
   ],
-  "channel_list_hash": "90aa7612583193d092c26849711c4b76",
+  "channel_list_hash": "f03ee6e60b682abaf78517d1eac1258f",
   "metadata": {
     "title": "3 GB",
     "subtitle": "Small",

@@ -1,14 +1,14 @@
 {
   "channels": [
     {
-      "id": "1e378725d3924b47aa5e1260628820b5",
+      "id": "2091ca47ff544c96b4ae02b3a92346e1",
       "include_node_ids": [
-        "77e92e9eca3b52578725c0bd4a4afa98",
-        "b66d9fce1b795b7b9a2c3ac03770d9b9",
-        "41b6c378afb65cd1951443d2ee7170b2",
-        "f742ecd1ac97504291934b7c3554696c",
-        "a34c768ffb225521867e268d1418f955",
-        "6ef561654e4b50aa9cb2b9c3bff97c78"
+        "70ffe5a923194a0b863f42074b08fa12",
+        "653748f5b3534ecd9a306ce51f4e943d",
+        "aa8e1664c3464fa6bcd0911b99ce9c3e",
+        "d61046d3130a4cc3b667d26d87720381",
+        "feebd251c5654fb1b031016cc2bba668",
+        "8207bc4c88d64237b7068b37772f9a6e"
       ],
       "exclude_node_ids": [],
       "version": 0
@@ -174,7 +174,7 @@
       "version": 0
     }
   ],
-  "channel_list_hash": "44b513461ee842b5f757abf8a4b3bde4",
+  "channel_list_hash": "009f3b71ede807649a5fdb6d54e940af",
   "metadata": {
     "title": "5 GB",
     "subtitle": "Large",
