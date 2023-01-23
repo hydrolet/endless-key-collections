@@ -56,7 +56,6 @@ def parse_contentnode_extras(config):
     tagged_node_ids = []
     for name in section_names:
         section = config[name]
-        # FIXME validate that the node_id is included
         node_id = name.split("-")[1]
         tags = section.get("tags", "").split()
         tagged_node_ids.append(
