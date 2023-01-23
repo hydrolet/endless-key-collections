@@ -8,6 +8,9 @@ import os
 from collections import OrderedDict
 
 
+ALLOWED_TAGS = ["highlight", "skill", "career", "curious"]
+
+
 def parse_channel_from_config(config, id):
     channel = {
         "id": id,
@@ -41,6 +44,30 @@ def parse_metadata_from_section(metadata_section):
     )
 
 
+def parse_contentnode_extras(config):
+    def is_tag_valid(tag):
+        return tag in ALLOWED_TAGS
+
+    section_names = []
+    for section in config.sections():
+        if section.startswith("contentnodeextras-"):
+            section_names.append(section)
+
+    tagged_node_ids = []
+    for name in section_names:
+        section = config[name]
+        node_id = name.split("-")[1]
+        tags = section.get("tags", "").split()
+        tagged_node_ids.append(
+            OrderedDict(
+                node_id=node_id,
+                tags=list(filter(is_tag_valid, tags)),
+            )
+        )
+
+    return tagged_node_ids
+
+
 # Copied from kolibri/core/content/utils/content_manifest.py
 def _get_channels_list_hash(channels_list):
     return hashlib.md5(json.dumps(channels_list, sort_keys=True).encode()).hexdigest()
@@ -61,6 +88,9 @@ def ini2json(f, output="collections"):
 
     if "metadata" in config:
         out["metadata"] = parse_metadata_from_section(config["metadata"])
+        tagged_node_ids = parse_contentnode_extras(config)
+        if tagged_node_ids:
+            out["metadata"]["tagged_node_ids"] = tagged_node_ids
 
     filename, _ext = os.path.splitext(os.path.basename(f))
     output_path = os.path.join(output, f"{filename}.json")

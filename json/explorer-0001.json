@@ -1,0 +1,162 @@
+{
+  "channels": [
+    {
+      "id": "1e378725d3924b47aa5e1260628820b5",
+      "include_node_ids": [
+        "ad8e6167e89058fe902c20a4258256f2",
+        "c93fbdee97b15faeb9d00875d74404ab",
+        "287abdf288155b21934c8cc634329f44"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    },
+    {
+      "id": "1520f018610256549c98ca0140cceebe",
+      "include_node_ids": [
+        "a31ac94be0bf53c6ab786fa97f9acf06",
+        "8508194e6aca509aa024ca37a0fd61c8",
+        "e7f09e1e6a675733898b4e898adfb0f9",
+        "09556fef1454580190cc2e23df362554",
+        "6c265cea66f654be817ea7fd38a4aae1",
+        "9e92af630d8755b8b784efdbca4d45ce",
+        "c70dcbb06e8c56269c49b3e8f1519d88",
+        "98cc399eee8359cbb2614692d2d1f58a"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    },
+    {
+      "id": "000409f81dbe5d1ba67101cb9fed4530",
+      "include_node_ids": [
+        "c317467867325d45930d50f350c27dd5",
+        "b3d04581fcb750c588e49baf47f88a81",
+        "cb80be11d336516c9a586cc5bb06e9e6",
+        "99fd79e500ef5d328ee0da3b3768a502",
+        "7c81b50691c85f1fa4097fe932eaf80c",
+        "01784fa9abd45045b6a323a326dfd1a4",
+        "63e46e4c9c205216a4680b0604a52659",
+        "cfee81fe7b7a57a2960ac2b0fd77f507",
+        "0233cf204b65542e86f85983791b2ae1"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    },
+    {
+      "id": "914fee213ee146de869016c287116b23",
+      "include_node_ids": [
+        "3032094f923c4d598a282d4e2a6d8507",
+        "768673f3fea148b8be0a9af26b3b0819"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    },
+    {
+      "id": "922e9c576c2f59e59389142b136308ff",
+      "include_node_ids": [
+        "f52020b5417959b7acb9139960b8adb3",
+        "e2ba6c9f73df560f9f97e6bd8e692b9c",
+        "dff4cfb9ffb9507fad96d6b988646ae9",
+        "efe6d1ee3a135dcab89c9fe2e91e2a2e",
+        "ea70091b2c5f5a74ad3a917d57a5879a"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    },
+    {
+      "id": "38eaaf9ec82a44f9ab6e7a44cb730f07",
+      "include_node_ids": [
+        "d9a219ec9e534dc48d9700aeea2eb6c2"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    },
+    {
+      "id": "85b42a40745f4e2392ed62e72d4dad6e",
+      "include_node_ids": [
+        "fd41c313504151ab9f15c5b0d72250aa",
+        "f17eba7aa8f55d81b5be0a9108b65fe0",
+        "a41e5b9b6a7057dd86a3d0f859531651",
+        "f2a8c68f9c1755ee9190afdfec98728a"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    },
+    {
+      "id": "59b8deeb90f544da923187e77c8d3820",
+      "include_node_ids": [
+        "343292ab67b04deaa8431bb9e21f6b40",
+        "ec487caf983a4cf28bc23daf0e6409c0"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    }
+  ],
+  "channel_list_hash": "0f6a110720f1edbafc04f30770549de1",
+  "metadata": {
+    "title": "2 GB",
+    "subtitle": "Small",
+    "description": "Primary",
+    "required_gigabytes": 2,
+    "tagged_node_ids": [
+      {
+        "node_id": "ad8e6167e89058fe902c20a4258256f2",
+        "tags": [
+          "highlight",
+          "curious"
+        ]
+      },
+      {
+        "node_id": "a31ac94be0bf53c6ab786fa97f9acf06",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "c317467867325d45930d50f350c27dd5",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "fd41c313504151ab9f15c5b0d72250aa",
+        "tags": [
+          "highlight",
+          "curious"
+        ]
+      },
+      {
+        "node_id": "ea70091b2c5f5a74ad3a917d57a5879a",
+        "tags": [
+          "career"
+        ]
+      },
+      {
+        "node_id": "ec487caf983a4cf28bc23daf0e6409c0",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "343292ab67b04deaa8431bb9e21f6b40",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "dff4cfb9ffb9507fad96d6b988646ae9",
+        "tags": [
+          "highlight",
+          "career"
+        ]
+      },
+      {
+        "node_id": "efe6d1ee3a135dcab89c9fe2e91e2a2e",
+        "tags": [
+          "highlight",
+          "career"
+        ]
+      }
+    ]
+  }
+}
