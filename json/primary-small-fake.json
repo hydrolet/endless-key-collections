@@ -1,0 +1,30 @@
+{
+  "channels": [
+    {
+      "id": "057f871caa405ec29d62ba0523c193d7",
+      "include_node_ids": [
+        "6d5a97dd59c555c09d3aebfb54a5a256",
+        "5aab597113c85314bec68eb42ecac908"
+      ],
+      "exclude_node_ids": [],
+      "version": 0
+    }
+  ],
+  "channel_list_hash": "190376faa8fc35722a184015f786e28f",
+  "metadata": {
+    "title": "0 GB",
+    "subtitle": "Small",
+    "description": "Primary",
+    "required_gigabytes": 0,
+    "tagged_node_ids": [
+      {
+        "node_id": "6d5a97dd59c555c09d3aebfb54a5a256",
+        "tags": ["highlight", "curious"]
+      },
+      {
+        "node_id": "5aab597113c85314bec68eb42ecac908",
+        "tags": ["highlight", "skills"]
+      }
+    ]
+  }
+}
