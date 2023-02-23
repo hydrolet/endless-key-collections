@@ -1,23 +1,15 @@
 {
   "channels": [
     {
-      "id": "1e378725d3924b47aa5e1260628820b5",
-      "version": 11,
-      "include_node_ids": [
-        "ad8e6167e89058fe902c20a4258256f2",
-        "f298a8bd3e5d588c8d7992eafb865831",
-        "e11a01060d045dcba8850ce9c0e59d31",
-        "df2bfc9e94c05c8595debf8796059472"
-      ]
-    },
-    {
       "id": "1520f018610256549c98ca0140cceebe",
       "version": 5,
       "include_node_ids": [
         "d449e6d531765959a236c97c51107d34",
         "a31ac94be0bf53c6ab786fa97f9acf06",
         "e7f09e1e6a675733898b4e898adfb0f9",
-        "98cc399eee8359cbb2614692d2d1f58a"
+        "98cc399eee8359cbb2614692d2d1f58a",
+        "b6c5b190d6135cb5aa4ea824797ac1bc",
+        "09556fef1454580190cc2e23df362554"
       ]
     },
     {
@@ -62,7 +54,8 @@
         "4151695101615714a4e45c7a5be3763c",
         "292702420dcb53d48102fa2142a79a0a",
         "372fdd6652365bc690907de719596e4a",
-        "5ffed14d98c45d1ca6e4ec2cf5b0569e"
+        "5ffed14d98c45d1ca6e4ec2cf5b0569e",
+        "cb80be11d336516c9a586cc5bb06e9e6"
       ]
     },
     {
@@ -70,7 +63,8 @@
       "version": 3,
       "include_node_ids": [
         "f17eba7aa8f55d81b5be0a9108b65fe0",
-        "f2a8c68f9c1755ee9190afdfec98728a"
+        "f2a8c68f9c1755ee9190afdfec98728a",
+        "a41e5b9b6a7057dd86a3d0f859531651"
       ]
     },
     {
@@ -101,10 +95,25 @@
         "c22835932a9a4af291f64f2da3bd92b1",
         "76e98bac64944ebc8ecd3a47b897069b"
       ]
+    },
+    {
+      "id": "1e378725d3924b47aa5e1260628820b5",
+      "version": 11,
+      "include_node_ids": [
+        "ad8e6167e89058fe902c20a4258256f2"
+      ]
+    },
+    {
+      "id": "2091ca47ff544c96b4ae02b3a92346e1",
+      "version": 12,
+      "include_node_ids": [
+        "33566502e2684e059ee538e48f1eca72",
+        "ebe32a3aae4446cc85ffd49544b4f974"
+      ]
     }
   ],
   "metadata": {
-    "title": "Explorer",
+    "title": "Explorer1",
     "subtitle": "0001",
     "description": "explorer",
     "required_gigabytes": 1,
@@ -118,15 +127,12 @@
       },
       {
         "node_id": "e11a01060d045dcba8850ce9c0e59d31",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "d449e6d531765959a236c97c51107d34",
         "tags": [
-          "curious",
-          "highlight"
+          "curious"
         ]
       },
       {
@@ -166,21 +172,16 @@
       },
       {
         "node_id": "214e378bf63d4f25a2c1d2f9d624fabe",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "80d2a7f845774a08a217688e6a67bd7f",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "f17eba7aa8f55d81b5be0a9108b65fe0",
         "tags": [
-          "curious",
-          "highlight"
+          "curious"
         ]
       },
       {
@@ -199,16 +200,11 @@
       },
       {
         "node_id": "b5b3be67058f4ca4bf30cb12c77feb99",
-        "tags": [
-          "career",
-          "highlight"
-        ]
+        "tags": []
       },
       {
         "node_id": "c94ba99e472945fab817f59ff096701e",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "7781d57439464d01acb0f5093cde6d1a",
@@ -254,9 +250,7 @@
       },
       {
         "node_id": "76e98bac64944ebc8ecd3a47b897069b",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "768673f3fea148b8be0a9af26b3b0819",
@@ -379,6 +373,70 @@
       },
       {
         "node_id": "98cc399eee8359cbb2614692d2d1f58a",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "8d07e8da09cc568bae067b5ab62dddf6",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "58a378aaa6ad527b83066605f312f010",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "310f39599509579a8cb110f3f92a3ee7",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "7b3476e84df7510a9380a62d8dde2278",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "400ed4fab92e5775bb7161b6be227128",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "b6c5b190d6135cb5aa4ea824797ac1bc",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "f59c4164a5674f3284bd619854968b09",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "9e57eab80ae84df8a78da6d5c4d69e3a",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "a41e5b9b6a7057dd86a3d0f859531651",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "09556fef1454580190cc2e23df362554",
         "tags": [
           "curious"
         ]
