@@ -2,161 +2,291 @@
   "channels": [
     {
       "id": "1e378725d3924b47aa5e1260628820b5",
+      "version": 11,
       "include_node_ids": [
-        "ad8e6167e89058fe902c20a4258256f2",
-        "c93fbdee97b15faeb9d00875d74404ab",
-        "287abdf288155b21934c8cc634329f44"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
+        "f6703d7315ae59d4bf39f19f16eb0d0f",
+        "2a0f4d09045f5804b97be6fbc9e0829c",
+        "44fb307931a953b59c4f2df0a681886f",
+        "459345324c6658038ca526c2dd374396",
+        "e74d6ec077505750818a2c7a9e16f319",
+        "4109376880b259498f934f3cddccd464"
+      ]
     },
     {
-      "id": "1520f018610256549c98ca0140cceebe",
+      "id": "2f95235c3709511fa12d007f31ed6a7b",
+      "version": 6,
       "include_node_ids": [
-        "a31ac94be0bf53c6ab786fa97f9acf06",
-        "8508194e6aca509aa024ca37a0fd61c8",
-        "e7f09e1e6a675733898b4e898adfb0f9",
-        "09556fef1454580190cc2e23df362554",
-        "6c265cea66f654be817ea7fd38a4aae1",
-        "9e92af630d8755b8b784efdbca4d45ce",
-        "c70dcbb06e8c56269c49b3e8f1519d88",
-        "98cc399eee8359cbb2614692d2d1f58a"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
+        "9f74ee10794c579190dc676ba43da721",
+        "d054712929a85f5997468ee006a50df7",
+        "73c07fc5640559128bc63e3379e0fe91",
+        "89b6cf39319b52a1aed9fafdd4f04e3f",
+        "56a0a2269ef15cc29417ec917831b378",
+        "d3696a81c0d35d8a94f56e951cea9ae6",
+        "383a0fa2ff3c5f1fac632ba311ea36d8"
+      ]
     },
     {
-      "id": "000409f81dbe5d1ba67101cb9fed4530",
+      "id": "e9d0d54d209344849e9bed0aa8c222ad",
+      "version": 6,
       "include_node_ids": [
-        "c317467867325d45930d50f350c27dd5",
-        "b3d04581fcb750c588e49baf47f88a81",
-        "cb80be11d336516c9a586cc5bb06e9e6",
-        "99fd79e500ef5d328ee0da3b3768a502",
-        "7c81b50691c85f1fa4097fe932eaf80c",
-        "01784fa9abd45045b6a323a326dfd1a4",
-        "63e46e4c9c205216a4680b0604a52659",
-        "cfee81fe7b7a57a2960ac2b0fd77f507",
-        "0233cf204b65542e86f85983791b2ae1"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
+        "e4c3ac9ba5384125a57689bd92aa9290",
+        "4858b75873c043a0b6fcac4935c00ace",
+        "6f6da852747d40068b2bbdd952d099ed",
+        "a81c032c6e614b898fdcef14c667d733",
+        "8de9cc96fe934809beb9a68c3e2b333c",
+        "e653e0eeae8646c48f13107f2bc09bf1"
+      ]
     },
     {
-      "id": "914fee213ee146de869016c287116b23",
+      "id": "197934f144305350b5820c7c4dd8e194",
+      "version": 16,
       "include_node_ids": [
-        "3032094f923c4d598a282d4e2a6d8507",
-        "768673f3fea148b8be0a9af26b3b0819"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
+        "eb76055b58c1567f906a4ffe34ec0819",
+        "5ccb80eaee5e5c178f210802bfb91828"
+      ]
     },
     {
-      "id": "922e9c576c2f59e59389142b136308ff",
+      "id": "1b1fc9bd453a4c52bb5628d9ae804ede",
+      "version": 3,
       "include_node_ids": [
-        "f52020b5417959b7acb9139960b8adb3",
-        "e2ba6c9f73df560f9f97e6bd8e692b9c",
-        "dff4cfb9ffb9507fad96d6b988646ae9",
-        "efe6d1ee3a135dcab89c9fe2e91e2a2e",
-        "ea70091b2c5f5a74ad3a917d57a5879a"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
-    },
-    {
-      "id": "38eaaf9ec82a44f9ab6e7a44cb730f07",
-      "include_node_ids": [
-        "d9a219ec9e534dc48d9700aeea2eb6c2"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
-    },
-    {
-      "id": "85b42a40745f4e2392ed62e72d4dad6e",
-      "include_node_ids": [
-        "fd41c313504151ab9f15c5b0d72250aa",
-        "f17eba7aa8f55d81b5be0a9108b65fe0",
-        "a41e5b9b6a7057dd86a3d0f859531651",
-        "f2a8c68f9c1755ee9190afdfec98728a"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
+        "980746987e794edaafb71ad50d6c1a58",
+        "636615d12fe6480ca257e29d8419e533",
+        "4775604906e54ac6ba4fe704ac8a3969"
+      ]
     },
     {
       "id": "59b8deeb90f544da923187e77c8d3820",
+      "version": 18,
       "include_node_ids": [
-        "343292ab67b04deaa8431bb9e21f6b40",
-        "ec487caf983a4cf28bc23daf0e6409c0"
-      ],
-      "exclude_node_ids": [],
-      "version": 0
+        "4738c0dda12c4ca584ae20c2a978d157"
+      ]
+    },
+    {
+      "id": "97111903de564de49483a9705d41a8ac",
+      "version": 7,
+      "include_node_ids": [
+        "2ec9c801132942ae825bbad31faeee8c",
+        "cc7b1d38f5fd4c6e80898fc30fdae605",
+        "54b6a01ffb5e4eb9a5783a6f761343ee"
+      ]
     }
   ],
-  "channel_list_hash": "0f6a110720f1edbafc04f30770549de1",
   "metadata": {
     "title": "Scientist",
-    "subtitle": "I love to investigate the world and do fun experiments.",
-    "description": "Primary",
-    "required_gigabytes": 2,
+    "subtitle": "0001",
+    "description": "scientist",
+    "required_gigabytes": 1,
     "tagged_node_ids": [
       {
-        "node_id": "ad8e6167e89058fe902c20a4258256f2",
+        "node_id": "2a0f4d09045f5804b97be6fbc9e0829c",
         "tags": [
-          "highlight",
-          "curious"
+          "curious",
+          "highlight"
         ]
       },
       {
-        "node_id": "a31ac94be0bf53c6ab786fa97f9acf06",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "c317467867325d45930d50f350c27dd5",
+        "node_id": "44fb307931a953b59c4f2df0a681886f",
         "tags": [
           "curious"
         ]
       },
       {
-        "node_id": "fd41c313504151ab9f15c5b0d72250aa",
+        "node_id": "e74d6ec077505750818a2c7a9e16f319",
         "tags": [
-          "highlight",
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "4109376880b259498f934f3cddccd464",
+        "tags": [
           "curious"
         ]
       },
       {
-        "node_id": "ea70091b2c5f5a74ad3a917d57a5879a",
+        "node_id": "d054712929a85f5997468ee006a50df7",
         "tags": [
-          "career"
+          "curious"
         ]
       },
       {
-        "node_id": "ec487caf983a4cf28bc23daf0e6409c0",
+        "node_id": "9f74ee10794c579190dc676ba43da721",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "73c07fc5640559128bc63e3379e0fe91",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "89b6cf39319b52a1aed9fafdd4f04e3f",
         "tags": [
           "highlight",
           "skill"
         ]
       },
       {
-        "node_id": "343292ab67b04deaa8431bb9e21f6b40",
+        "node_id": "56a0a2269ef15cc29417ec917831b378",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "d3696a81c0d35d8a94f56e951cea9ae6",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "383a0fa2ff3c5f1fac632ba311ea36d8",
         "tags": [
           "skill"
         ]
       },
       {
-        "node_id": "dff4cfb9ffb9507fad96d6b988646ae9",
+        "node_id": "eb76055b58c1567f906a4ffe34ec0819",
         "tags": [
-          "highlight",
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "5ccb80eaee5e5c178f210802bfb91828",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "4738c0dda12c4ca584ae20c2a978d157",
+        "tags": [
           "career"
         ]
       },
       {
-        "node_id": "efe6d1ee3a135dcab89c9fe2e91e2a2e",
+        "node_id": "2ec9c801132942ae825bbad31faeee8c",
+        "tags": [
+          "career",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "cc7b1d38f5fd4c6e80898fc30fdae605",
+        "tags": [
+          "career"
+        ]
+      },
+      {
+        "node_id": "54b6a01ffb5e4eb9a5783a6f761343ee",
+        "tags": [
+          "career"
+        ]
+      },
+      {
+        "node_id": "636615d12fe6480ca257e29d8419e533",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "4775604906e54ac6ba4fe704ac8a3969",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "b3b5f8ab8b9d4153a6ab109fbd763328",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "4ce60e603cb746c7b2762af915039826",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "20b6ca87fbd841f58f0d7fb7fba91d9e",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "17bcafef4d5f46e98c9f1d710fdf7acd",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "4e3ca4bc3e8f40fdb4758b4e86329396",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "3fb6e4a5c0184360b304290fcedbf329",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "f9d3d97a780c4fe29df9adfe0bff6b4b",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "ad4842a9f4154072b8f6656baaeb2c34",
         "tags": [
           "highlight",
-          "career"
+          "skill"
+        ]
+      },
+      {
+        "node_id": "7b5c6f030aa44412a9944a2f23077a8a",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "b3a90b38972f4bd38587ae05f5378b57",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "878e98a78a024595bfc0253f8fbd89a0",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "a81c032c6e614b898fdcef14c667d733",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "8de9cc96fe934809beb9a68c3e2b333c",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "e653e0eeae8646c48f13107f2bc09bf1",
+        "tags": [
+          "skill"
         ]
       }
     ]
-  }
+  },
+  "channel_list_hash": ""
 }
