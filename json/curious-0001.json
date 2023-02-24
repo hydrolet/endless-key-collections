@@ -1,17 +1,6 @@
 {
   "channels": [
     {
-      "id": "1e378725d3924b47aa5e1260628820b5",
-      "version": 11,
-      "include_node_ids": [
-        "77e92e9eca3b52578725c0bd4a4afa98",
-        "b66d9fce1b795b7b9a2c3ac03770d9b9",
-        "41b6c378afb65cd1951443d2ee7170b2",
-        "f742ecd1ac97504291934b7c3554696c",
-        "55f378d358c35e10b73a137628495670"
-      ]
-    },
-    {
       "id": "914fee213ee146de869016c287116b23",
       "version": 17,
       "include_node_ids": [
@@ -38,7 +27,7 @@
       "version": 3,
       "include_node_ids": [
         "fd41c313504151ab9f15c5b0d72250aa",
-        "a41e5b9b6a7057dd86a3d0f859531651"
+        "aa0f34b2ec29512cbcb8e619d88d9f47"
       ]
     },
     {
@@ -88,6 +77,16 @@
       "version": 7,
       "include_node_ids": [
         "9cae32ddc1964ce59a88ee6cea07bb2b"
+      ]
+    },
+    {
+      "id": "2091ca47ff544c96b4ae02b3a92346e1",
+      "version": 12,
+      "include_node_ids": [
+        "70ffe5a923194a0b863f42074b08fa12",
+        "653748f5b3534ecd9a306ce51f4e943d",
+        "aa8e1664c3464fa6bcd0911b99ce9c3e",
+        "d61046d3130a4cc3b667d26d87720381"
       ]
     }
   ],
@@ -240,27 +239,16 @@
       },
       {
         "node_id": "401770d6772b4a03827637f800926ab9",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "7103b9dd15574d4ea45046e4c7e42743",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "fd41c313504151ab9f15c5b0d72250aa",
         "tags": [
           "curious"
-        ]
-      },
-      {
-        "node_id": "a41e5b9b6a7057dd86a3d0f859531651",
-        "tags": [
-          "curious",
-          "highlight"
         ]
       },
       {
@@ -360,9 +348,7 @@
       },
       {
         "node_id": "d0fd7c0b241b459c8cac2efce01b9b02",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "c9b7039c35754b568342dd2084e20c59",
@@ -373,15 +359,11 @@
       },
       {
         "node_id": "80990af62bbd4d9eaeafada08922e699",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "0d026a6d231b40fab8955d3f8c37b5a7",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "17e5d037859f4e6ea650863e79553940",
@@ -391,9 +373,7 @@
       },
       {
         "node_id": "dc0277e53852456ba50b3e40211304bd",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "488abb07e9ad4c408a3003c2917031e6",
@@ -403,15 +383,11 @@
       },
       {
         "node_id": "d8cb9c9bc520426897092a9ca0d1b476",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "bdbe335a012744feaae775f74da39bfc",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "414f3fec3d044928a2de79b7f2561ccf",
@@ -421,15 +397,11 @@
       },
       {
         "node_id": "0c505b6f28624b34b18f8d526bd04e09",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "58192c9aa9914485af01d831268d3e4d",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "a99298b513444671ba6a85121964cae9",
@@ -439,20 +411,49 @@
       },
       {
         "node_id": "e5a85509824f4620b8d2c8d89df99db9",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "7a2c8b3d5b204850a2d8423d42a05dd0",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "186f15c2775e45f4b26c8d6738c70697",
+        "tags": []
+      },
+      {
+        "node_id": "aa0f34b2ec29512cbcb8e619d88d9f47",
         "tags": [
-          "career"
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "2d8a98a0d0ca472ca06cee427e15b72f",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "899fa970234b4ae0b2d5d65a2fd50f4a",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "6121314fdaa945faaca9ead58813b517",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "9ce6f4a3d63348aa8d06d65441a89dfa",
+        "tags": [
+          "curious",
+          "highlight"
         ]
       }
     ]
