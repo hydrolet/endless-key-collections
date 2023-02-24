@@ -17,15 +17,6 @@
       ]
     },
     {
-      "id": "1e378725d3924b47aa5e1260628820b5",
-      "version": 11,
-      "include_node_ids": [
-        "bdb025a031e159c4ae30f865e3fd78ec",
-        "21ba89fba32256f58edf9e182ed886ac",
-        "c36054d6f63656a0b47278cc4057742e"
-      ]
-    },
-    {
       "id": "6ef7ae90af364778abb5f5f7855c5c27",
       "version": 3,
       "include_node_ids": [
@@ -36,7 +27,6 @@
         "a387c98020df4c02b06934e5c1d8a0b9",
         "92a606154c0a413d9e9847c896484b14",
         "1bf13400a8d248f1bc8cd0802eeabcce",
-        "a84e13f062f742f0a2c6fcf37f212e51",
         "d10e5ec709fc4922848f7dc0c8385562",
         "396ddc38690c4daeac46a080dd0c1b24"
       ]
@@ -45,7 +35,15 @@
       "id": "3fcffebc58d15175b948b140434ef6e6",
       "version": 10,
       "include_node_ids": [
-        "3fcffebc58d15175b948b140434ef6e6"
+        "7d8ce89b420a5a3ea6faf40cbe474edd",
+        "96c3c432dde0517cb870ad3fcb4aa366",
+        "e34f71fb7ef85a8793812163ffa0f8b0",
+        "184bcc0848155460915524948cb633bb",
+        "5e2c41b59a92502781e9c17f79c4614e",
+        "15d90ba08bb757928f5335d0ae91e695",
+        "e333f5af540e59fbb5acb4db16f203aa",
+        "9ccf2b6d209f52c3819d93cf79e0fb0a",
+        "7b3a2413d67a59d597dea3ee873c0695"
       ]
     },
     {
@@ -78,6 +76,15 @@
       "version": 3,
       "include_node_ids": [
         "22bfdbc10daa44999a637054118799e8"
+      ]
+    },
+    {
+      "id": "2091ca47ff544c96b4ae02b3a92346e1",
+      "version": 12,
+      "include_node_ids": [
+        "fd535621e9a14bf48b8c9d076df6f3a0",
+        "1b44c510f35b4ac691e24ed940426941",
+        "0ac2efd62d4e4db8b9fd743dc9c4b987"
       ]
     }
   ],
@@ -135,12 +142,14 @@
       {
         "node_id": "68e4c41eedca515c9f448ce06c7e576f",
         "tags": [
+          "highlight",
           "skill"
         ]
       },
       {
         "node_id": "201255730cbf562cb1521fd313cafa1c",
         "tags": [
+          "highlight",
           "skill"
         ]
       },
@@ -171,6 +180,7 @@
       {
         "node_id": "0e3a689912435dab91397dc232f65d7a",
         "tags": [
+          "highlight",
           "skill"
         ]
       },
@@ -304,8 +314,108 @@
       },
       {
         "node_id": "e5bfe0007bb747838975ddf192e0f237",
+        "tags": []
+      },
+      {
+        "node_id": "7d8ce89b420a5a3ea6faf40cbe474edd",
         "tags": [
-          "curious"
+          "skill"
+        ]
+      },
+      {
+        "node_id": "96c3c432dde0517cb870ad3fcb4aa366",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "e34f71fb7ef85a8793812163ffa0f8b0",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "e2b2d004fd415d35ab251459f29fd9ad",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "1fc33a8bb03a5e95aaca57a487f9da9c",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "5a1b52c4b4af5493879c2bed7d3b119c",
+        "tags": []
+      },
+      {
+        "node_id": "f4d593a3a879502c9a5d5891940e6fc6",
+        "tags": []
+      },
+      {
+        "node_id": "61f616d3b2755a2c8d3877bf1adcd7bf",
+        "tags": []
+      },
+      {
+        "node_id": "15d90ba08bb757928f5335d0ae91e695",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "5e2c41b59a92502781e9c17f79c4614e",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "184bcc0848155460915524948cb633bb",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "7b3a2413d67a59d597dea3ee873c0695",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "9ccf2b6d209f52c3819d93cf79e0fb0a",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "e333f5af540e59fbb5acb4db16f203aa",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "43c08e1d89df413f851ac9f6e188432b",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "76228faf13c347e1addf3fa9a25eb220",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "9277dba16d3c42009d9d5c895ba2dca7",
+        "tags": [
+          "curious",
+          "highlight"
         ]
       }
     ]
