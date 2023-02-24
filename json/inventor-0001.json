@@ -84,19 +84,6 @@
     "required_gigabytes": 1,
     "tagged_node_ids": [
       {
-        "node_id": "a2c150919c365e82bbd0b478989f007c",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
-      },
-      {
-        "node_id": "b6d4ee8ed97d52408950f5abc6748f8e",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
         "node_id": "2c129c33d7ef4cbca5a7355de00ae1d8",
         "tags": [
           "curious",
@@ -236,31 +223,6 @@
         "tags": [
           "highlight",
           "skill"
-        ]
-      },
-      {
-        "node_id": "af5917e62160523abdd56be392be1ec7",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "53ca407c2d8e4982884387f4f2dc305c",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
-      },
-      {
-        "node_id": "a5d9f056877b4b99a091df0c10d920ae",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "fe6f9b945d304470836bccee17a4e93d",
-        "tags": [
-          "curious"
         ]
       },
       {
