@@ -4,7 +4,8 @@
       "id": "1520f018610256549c98ca0140cceebe",
       "version": 5,
       "include_node_ids": [
-        "6fe6f580dc6c54df91c131c17b5548fd"
+        "6fe6f580dc6c54df91c131c17b5548fd",
+        "37f9039b5ae55ec6a7194198e8531837"
       ]
     },
     {
@@ -46,14 +47,17 @@
       "version": 6,
       "include_node_ids": [
         "8e5de022aa23530f9dd5e8a144e3b1f1",
-        "8a50feaea98452fc9d3dc46fab10a33f"
+        "8a50feaea98452fc9d3dc46fab10a33f",
+        "c08d46d405355850926e7e27acf35663"
       ]
     },
     {
       "id": "b40491d1ef8b5506b8c6ae861372e9de",
       "version": 4,
       "include_node_ids": [
-        "a5d7911a7e3555e89054f6d3f5a3087f"
+        "a5d7911a7e3555e89054f6d3f5a3087f",
+        "fb259af752015b2ab39d786a0dae0e03",
+        "037e5278d0175dbbaee3e3eaae345b46"
       ]
     },
     {
@@ -84,7 +88,7 @@
     }
   ],
   "metadata": {
-    "title": "Artist",
+    "title": "Artist1",
     "subtitle": "0001",
     "description": "artist",
     "required_gigabytes": 1,
@@ -98,15 +102,11 @@
       },
       {
         "node_id": "d48bba63221b45b08eb5b7e85aa6d4c8",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "aed0ad11eaeb4c75a4f93569492f3f7f",
-        "tags": [
-          "career"
-        ]
+        "tags": []
       },
       {
         "node_id": "dc02a16cf93d4961b082e45a9569a21a",
@@ -158,10 +158,7 @@
       },
       {
         "node_id": "65e3efecb1f247429dfd2ce83284eb3a",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
+        "tags": []
       },
       {
         "node_id": "4cf9c5c24352504d9e82d89649acdef1",
@@ -268,6 +265,33 @@
         "node_id": "2185f2ced9db5ad295386bcbad8ca4e5",
         "tags": [
           "career"
+        ]
+      },
+      {
+        "node_id": "37f9039b5ae55ec6a7194198e8531837",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "fb259af752015b2ab39d786a0dae0e03",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "037e5278d0175dbbaee3e3eaae345b46",
+        "tags": [
+          "highlight",
+          "skill"
+        ]
+      },
+      {
+        "node_id": "c08d46d405355850926e7e27acf35663",
+        "tags": [
+          "highlight",
+          "skill"
         ]
       }
     ]
