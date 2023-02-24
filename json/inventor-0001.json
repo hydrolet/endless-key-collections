@@ -1,23 +1,14 @@
 {
   "channels": [
     {
-      "id": "1e378725d3924b47aa5e1260628820b5",
-      "version": 11,
-      "include_node_ids": [
-        "35a02d8ba16a59d193877b6ba5492f69",
-        "fd9332e99b0f599d83dbb99ea8a5f24a",
-        "a2c150919c365e82bbd0b478989f007c",
-        "b6d4ee8ed97d52408950f5abc6748f8e",
-        "e18d206fde3c5aaa9632c3b9f2bb3259"
-      ]
-    },
-    {
       "id": "2f95235c3709511fa12d007f31ed6a7b",
       "version": 6,
       "include_node_ids": [
         "dac55d17175b56bbaae14f21b85ffb5a",
         "0778360749f457bab7ea4b52dc025552",
-        "a8f011d54da05e6693e6929c3e30127c"
+        "a8f011d54da05e6693e6929c3e30127c",
+        "253556596d7a5a88a41ac25da6247b5e",
+        "06bfc8b31c6a5cf4a4eabbfdb66fc123"
       ]
     },
     {
@@ -75,6 +66,15 @@
         "8319fc3e95dd4580b38386c104d55758",
         "3f6651bc3de04f99a400e46ef528c63d"
       ]
+    },
+    {
+      "id": "2091ca47ff544c96b4ae02b3a92346e1",
+      "version": 12,
+      "include_node_ids": [
+        "2c0b80e5e0a941cb8b2e93ef54bdbec2",
+        "27f2fa6f701140c4bcdcc7e0436f8ee0",
+        "74d4bcc609ed4c15a809657901eda760"
+      ]
     }
   ],
   "metadata": {
@@ -105,9 +105,7 @@
       },
       {
         "node_id": "bc651c10cfaf401f8f58526ea6ae6503",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "f14c45e7374344d0b01246bbd3164a85",
@@ -118,15 +116,11 @@
       },
       {
         "node_id": "94c30f94218446429fd2e6411db1f59f",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "39b422de5bd34bfca0d9b5875ad879c2",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "3f286eade7cf4785b12d19945624677d",
@@ -162,9 +156,7 @@
       },
       {
         "node_id": "3f6651bc3de04f99a400e46ef528c63d",
-        "tags": [
-          "curious"
-        ]
+        "tags": []
       },
       {
         "node_id": "dac55d17175b56bbaae14f21b85ffb5a",
@@ -194,9 +186,7 @@
       },
       {
         "node_id": "733f281308164e929ca1c7f3890e0d0e",
-        "tags": [
-          "skill"
-        ]
+        "tags": []
       },
       {
         "node_id": "c46fb6c278814d648cb447623384a3ae",
@@ -206,9 +196,7 @@
       },
       {
         "node_id": "0794ccc315064648b7bf40f300cc7d9e",
-        "tags": [
-          "skill"
-        ]
+        "tags": []
       },
       {
         "node_id": "3217c74f84ae462d9039b5f0a01da4a9",
@@ -219,9 +207,7 @@
       },
       {
         "node_id": "345f1ca1de3f4da48043abdbc987d332",
-        "tags": [
-          "skill"
-        ]
+        "tags": []
       },
       {
         "node_id": "b40a4006e8954c71860055e48c27e2fc",
@@ -231,9 +217,7 @@
       },
       {
         "node_id": "cfcaa4a677d64634a506bfe7791317fd",
-        "tags": [
-          "skill"
-        ]
+        "tags": []
       },
       {
         "node_id": "d45376db611648468a9884328a87db84",
@@ -258,6 +242,37 @@
         "node_id": "af5917e62160523abdd56be392be1ec7",
         "tags": [
           "curious"
+        ]
+      },
+      {
+        "node_id": "53ca407c2d8e4982884387f4f2dc305c",
+        "tags": [
+          "curious",
+          "highlight"
+        ]
+      },
+      {
+        "node_id": "a5d9f056877b4b99a091df0c10d920ae",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "fe6f9b945d304470836bccee17a4e93d",
+        "tags": [
+          "curious"
+        ]
+      },
+      {
+        "node_id": "253556596d7a5a88a41ac25da6247b5e",
+        "tags": [
+          "skill"
+        ]
+      },
+      {
+        "node_id": "06bfc8b31c6a5cf4a4eabbfdb66fc123",
+        "tags": [
+          "skill"
         ]
       }
     ]
