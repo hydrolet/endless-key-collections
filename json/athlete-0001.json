@@ -95,45 +95,6 @@
     "required_gigabytes": 1,
     "tagged_node_ids": [
       {
-        "node_id": "104e6a3a14b75a709abcc3e30b18c5b5",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
-      },
-      {
-        "node_id": "7692c65b48375b4cbc29d44d3b807c61",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "1dce7bbcab2351d7aa1c62a1b427e2a3",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
-      },
-      {
-        "node_id": "ff60caedae2d5492a4baa990cfb357a8",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
-        "node_id": "1f6ded74525b5592847fbba18e75b090",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
-      },
-      {
-        "node_id": "bfb25a79fb695aebbcb32231d559df90",
-        "tags": [
-          "curious"
-        ]
-      },
-      {
         "node_id": "40d240598fea5ec9941ed1d80c7b1f09",
         "tags": [
           "skill"
@@ -306,17 +267,6 @@
         ]
       },
       {
-        "node_id": "754501c3dad44b0b90da70f5519c7794",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
-      },
-      {
-        "node_id": "e5bfe0007bb747838975ddf192e0f237",
-        "tags": []
-      },
-      {
         "node_id": "7d8ce89b420a5a3ea6faf40cbe474edd",
         "tags": [
           "skill"
@@ -334,30 +284,6 @@
           "highlight",
           "skill"
         ]
-      },
-      {
-        "node_id": "e2b2d004fd415d35ab251459f29fd9ad",
-        "tags": [
-          "skill"
-        ]
-      },
-      {
-        "node_id": "1fc33a8bb03a5e95aaca57a487f9da9c",
-        "tags": [
-          "skill"
-        ]
-      },
-      {
-        "node_id": "5a1b52c4b4af5493879c2bed7d3b119c",
-        "tags": []
-      },
-      {
-        "node_id": "f4d593a3a879502c9a5d5891940e6fc6",
-        "tags": []
-      },
-      {
-        "node_id": "61f616d3b2755a2c8d3877bf1adcd7bf",
-        "tags": []
       },
       {
         "node_id": "15d90ba08bb757928f5335d0ae91e695",
@@ -395,27 +321,6 @@
         "tags": [
           "highlight",
           "skill"
-        ]
-      },
-      {
-        "node_id": "43c08e1d89df413f851ac9f6e188432b",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
-      },
-      {
-        "node_id": "76228faf13c347e1addf3fa9a25eb220",
-        "tags": [
-          "curious",
-          "highlight"
-        ]
-      },
-      {
-        "node_id": "9277dba16d3c42009d9d5c895ba2dca7",
-        "tags": [
-          "curious",
-          "highlight"
         ]
       }
     ]
