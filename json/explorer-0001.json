@@ -97,23 +97,23 @@
       ]
     },
     {
-      "id": "1e378725d3924b47aa5e1260628820b5",
-      "version": 11,
-      "include_node_ids": [
-        "ad8e6167e89058fe902c20a4258256f2"
-      ]
-    },
-    {
       "id": "2091ca47ff544c96b4ae02b3a92346e1",
       "version": 12,
       "include_node_ids": [
         "33566502e2684e059ee538e48f1eca72",
         "ebe32a3aae4446cc85ffd49544b4f974"
       ]
+    },
+    {
+      "id": "f1ada7abc4194ff48a958337a31972c7",
+      "version": 4,
+      "include_node_ids": [
+        "cc0c4508453d46d9a2a7b57190c9a5e8"
+      ]
     }
   ],
   "metadata": {
-    "title": "Explorer1",
+    "title": "Explorer",
     "subtitle": "0001",
     "description": "explorer",
     "required_gigabytes": 1,
@@ -439,6 +439,13 @@
         "node_id": "09556fef1454580190cc2e23df362554",
         "tags": [
           "curious"
+        ]
+      },
+      {
+        "node_id": "cc0c4508453d46d9a2a7b57190c9a5e8",
+        "tags": [
+          "curious",
+          "highlight"
         ]
       }
     ]
